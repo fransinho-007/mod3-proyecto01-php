@@ -2,6 +2,6 @@
 
 require __DIR__ . "/vendor/autoload.php";
 
-echo 'hola mundo';
+echo "hola mundo";
 
 echo 'adios';
