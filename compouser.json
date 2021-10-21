@@ -1,0 +1,14 @@
+{
+    "name":"fransinho-007/mod3-proyecto01-php",
+    "autoload":{
+        "file":[
+            "src/tools.php",
+        ]
+    },
+    "authors":[
+        {
+            "name":"fransinho-007"
+        }
+    ],
+    "require":{}
+}
